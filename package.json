@@ -1,9 +1,0 @@
-{
-	"name": "oopsy-ai",
-	"version": "1.0.0",
-	"private": true,
-	"description": "Oopsy Ai — AI video production landing page",
-	"scripts": {
-		"dev": "node server.js"
-	}
-}
